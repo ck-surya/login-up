@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --primery-color: #000000;
+  --second-primery-color:#666666;
+  --third-primery-color:#999999;
+  --fourth_primery_color: #e6e6e6;
+  --fifth-primery-color:#ffffff;
+  --sixth-primery_color: #212529;
+  --seventh-primery_color: #333333;
+  --eigths-primery-color: #57b846;
+  --ninth-primery_color: #000000;
+  --tenth-primery_color: #57b846;
+  
+
+}
+
+body{
+  height: 100vh;
+  width: 100vw;
+}
+
+input{
+  background: transparent;
+  border: none;
+  outline:  none;
+}
